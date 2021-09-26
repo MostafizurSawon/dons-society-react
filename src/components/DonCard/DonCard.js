@@ -6,8 +6,8 @@ const DonCard = (props) => {
     return (
         <>
         <div className="col-lg-4 col-md-6 col.sm-12 g-4 ">
-            <div className="card" stylename="width: 18rem;">
-                <img src={img} className="card-img-top p-5 custom" alt="..." />
+            <div className="card shadow-lg" >
+                <img src={img} className="card-img-top mx-auto p-5 custom" alt="..." />
                 <div className="card-body">
                     <h6 className="card-title">Name : {name}</h6>
                     <p className="card-text">Nickname : {nickname}</p>
