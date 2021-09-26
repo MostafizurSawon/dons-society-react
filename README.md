@@ -3,7 +3,7 @@
 
 ## Live Site :
 
-https://osthir-store.netlify.app/
+https://osthir-don.netlify.app/
 
 ### About This Site :
 
