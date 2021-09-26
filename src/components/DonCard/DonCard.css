@@ -1,0 +1,21 @@
+.custom {
+    width: 250px;
+	height: 250px;
+	border-radius: 50%;
+}
+
+.custom-icon{
+	font-size: 30px;
+}
+
+.insta:hover{
+	color: red;
+	font-size: 31px;
+	cursor: pointer;
+}
+.fb:hover{
+	color: blue;
+	font-size: 31px;
+	cursor: pointer;
+}
+

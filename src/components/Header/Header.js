@@ -7,7 +7,7 @@ const Header = () => {
             <nav className="navbar navbar-expand-lg navbar-light mb-4">
                 <div className="container">
                     <a className="navbar-brand d-flex align-items-center col-6 col-lg-6" href="/logo">
-                        <i className="fas fa-motorcycle nav-color"> <span className="span-default">Biker-Vai</span></i>
+                         <span className="span-default">Don</span>
                     </a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -29,12 +29,14 @@ const Header = () => {
                                 <a className="nav-link" href="#subscribe">Subscribe</a>
                             </li>
                             <button className="btn btn-success ms-5"><i className="fas fa-sign-in-alt"> Login</i></button>
+                            <button className="btn btn-warning ms-1">Sign In</button>
                         </ul>
                     </div>
                 </div>
             </nav>
-            <div className="bg-dark">
-        <h1 className="text-warning">Dons of Natore</h1>
+            <div className="bg-info shadow p-2">
+        <h1 className="text-danger">Dons of Bangladesh</h1>
+        <h1 className="text-danger ">Budget : $ 100M</h1>
             </div>
         </section>
         </>

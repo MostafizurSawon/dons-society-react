@@ -22,7 +22,10 @@ const Don = () => {
         <>
             <h1>Hello Dons</h1>
             <div className="row">
-                <div className="col-8">
+                <div className="col-4">
+                    <Cart cart={cart}></Cart>
+                </div>
+                <div className="col-lg-8">
                     <h2>Total Dons : {don.length}</h2>
                     <div className="row">
                 {
@@ -31,9 +34,7 @@ const Don = () => {
                     </div>
 
                 </div>
-                <div className="col-4">
-                    <Cart cart={cart}></Cart>
-                </div>
+                
             </div>
         </>
     );

@@ -5,133 +5,151 @@
         "nickname": "The Buggy Man",
         "price": 1000000,
         "currency": "Dollar, Euro, Taka",
-        "agent": "Saul",
-        "img": "https://scontent.frjh1-1.fna.fbcdn.net/v/t1.6435-9/36505172_903200473217334_5947915099434909696_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=a4a2d7&_nc_ohc=8Xyrei9V2L0AX9jeNQa&_nc_ht=scontent.frjh1-1.fna&oh=4f201679c0ee4b008b26594422495eda&oe=617578C8"
+        "area": "Rajshahi",
+        "img": "https://scontent.frjh1-1.fna.fbcdn.net/v/t1.6435-9/126289422_1560829127454462_8306099207712402810_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=174925&_nc_ohc=MyxpSsOjfo0AX-S7QWC&_nc_ht=scontent.frjh1-1.fna&oh=24c6f6194671bcdc58044ebd04c4fb3f&oe=61777C6D"
     },
     {
         "key": "2",
-        "name": "Mostafizur Rahman",
-        "nickname": "The Buggy Man",
-        "price": 1000000,
-        "currency": "Dollar, Euro, Taka",
-        "agent": "Saul",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/415oziPFA0L._AC_US218_.jpg"
+        "name": "Avijit",
+        "nickname": "Gopi",
+        "price": 800000,
+        "currency": "Dollar, Taka",
+        "area": "Farmgate",
+        "img": "https://scontent.frjh1-1.fna.fbcdn.net/v/t1.6435-9/121102692_3579000845522582_4248323455367649134_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=H-6bOIUxkdMAX8dndi8&_nc_ht=scontent.frjh1-1.fna&oh=747cf486681908102c1e8fdc67fba874&oe=6174EB76"
     },
     {
         "key": "3",
-        "name": "Mostafizur Rahman",
-        "nickname": "The Buggy Man",
+        "name": "Julian",
+        "nickname": "The Lover",
         "price": 1000000,
-        "currency": "Dollar, Euro, Taka",
-        "agent": "Saul",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/415oziPFA0L._AC_US218_.jpg"
+        "currency": "Dollar, Euro",
+        "area": "Uttora",
+        "img": "https://scontent.frjh1-1.fna.fbcdn.net/v/t1.6435-9/163416934_3887643507969824_2916302179112251295_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=174925&_nc_ohc=L5J8m7SqUUoAX_InISC&tn=Kiz4D7u8_-YXGV0x&_nc_ht=scontent.frjh1-1.fna&oh=2fadc28d573084d43a8b6b0c5ebbf13d&oe=617657E7"
     },
     {
         "key": "4",
-        "name": "Mostafizur Rahman",
-        "nickname": "The Buggy Man",
+        "name": "Fatin",
+        "nickname": "Religious Bro",
         "price": 1000000,
         "currency": "Dollar, Euro, Taka",
-        "agent": "Saul",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/415oziPFA0L._AC_US218_.jpg"
+        "area": "Pabna",
+        "img": "https://scontent.frjh1-1.fna.fbcdn.net/v/t39.30808-6/240885540_2040116702822977_5409565082784073869_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=lFg8lZt5wiwAX_UwjX8&tn=Kiz4D7u8_-YXGV0x&_nc_ht=scontent.frjh1-1.fna&oh=538f6b34e80853ba90fd517936640fc1&oe=61557295"
     },
     {
         "key": "5",
-        "name": "Mostafizur Rahman",
-        "nickname": "The Buggy Man",
-        "price": 1000000,
+        "name": "Jason",
+        "nickname": "MineCraft Freak",
+        "price": 900000,
         "currency": "Dollar, Euro, Taka",
-        "agent": "Saul",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/415oziPFA0L._AC_US218_.jpg"
+        "area": "Gobindogonj",
+        "img": "https://scontent.frjh1-1.fna.fbcdn.net/v/t1.6435-9/s640x640/29472438_1951747955154686_3595732017322393600_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=174925&_nc_ohc=HY8mob_KbWIAX94yQqb&_nc_ht=scontent.frjh1-1.fna&oh=2f924f9658d26f54ca21217b52f3e292&oe=617592AF"
     },
     {
         "key": "6",
-        "name": "Mostafizur Rahman",
-        "nickname": "The Buggy Man",
-        "price": 1000000,
+        "name": "Aseer",
+        "nickname": "The Foka",
+        "price": 960000,
         "currency": "Dollar, Euro, Taka",
-        "agent": "Saul",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/415oziPFA0L._AC_US218_.jpg"
+        "area": "walton Factory",
+        "img": "https://scontent.frjh1-1.fna.fbcdn.net/v/t1.6435-9/p640x640/80892712_2651815035052208_7183216344521768960_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=174925&_nc_ohc=_OsjJOuZs04AX80rpeJ&_nc_ht=scontent.frjh1-1.fna&oh=3ea397e79de8c3973832472f53ae416d&oe=6176E105"
     },
     {
         "key": "7",
-        "name": "Mostafizur Rahman",
-        "nickname": "The Buggy Man",
-        "price": 1000000,
+        "name": "Omi",
+        "nickname": "The Early man",
+        "price": 800000,
         "currency": "Dollar, Euro, Taka",
-        "agent": "Saul",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/415oziPFA0L._AC_US218_.jpg"
+        "area": "Natore",
+        "img": "https://scontent.frjh1-1.fna.fbcdn.net/v/t1.6435-9/s640x640/135866160_3733683030059959_2106419193434406318_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_ohc=cRRWoiem9NcAX8wfu_H&_nc_ht=scontent.frjh1-1.fna&oh=bf359c57b2e58fab7972bfbf46616409&oe=6175F622"
     },
     {
         "key": "8",
-        "name": "Mostafizur Rahman",
-        "nickname": "The Buggy Man",
-        "price": 1000000,
+        "name": "Muhit",
+        "nickname": "Too Loyal Lover",
+        "price": 9300000,
         "currency": "Dollar, Euro, Taka",
-        "agent": "Saul",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/415oziPFA0L._AC_US218_.jpg"
+        "area": "Sirajgonj",
+        "img": "https://scontent.frjh1-1.fna.fbcdn.net/v/t1.6435-9/p640x640/80127554_1913335898812041_1187930590490394624_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=174925&_nc_ohc=9QpC6aoVcGcAX-9KMlh&_nc_ht=scontent.frjh1-1.fna&oh=44648f47b26c749a0d8d3f1164c0e007&oe=6174DE98"
     },
     {
         "key": "9",
-        "name": "Mostafizur Rahman",
-        "nickname": "The Buggy Man",
+        "name": "Suman",
+        "nickname": "Gm kha",
         "price": 1000000,
-        "currency": "Dollar, Euro, Taka",
-        "agent": "Saul",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/415oziPFA0L._AC_US218_.jpg"
+        "currency": "Dollar, Euro",
+        "area": "Kolkata",
+        "img": "https://scontent.frjh1-1.fna.fbcdn.net/v/t1.6435-9/p640x640/75473966_935589246820590_8518771016879570944_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=174925&_nc_ohc=Fl-ZCRlhTEEAX-h8dKp&_nc_ht=scontent.frjh1-1.fna&oh=06bf5494d88944c4babd5931ff928044&oe=617548DA"
     },
     {
         "key": "10",
-        "name": "Mostafizur Rahman",
-        "nickname": "The Buggy Man",
-        "price": 1000000,
+        "name": "Pritom",
+        "nickname": "Kodu",
+        "price": 400000,
         "currency": "Dollar, Euro, Taka",
-        "agent": "Saul",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/415oziPFA0L._AC_US218_.jpg"
+        "area": "Mymensingh",
+        "img": "https://scontent.frjh1-1.fna.fbcdn.net/v/t1.6435-9/s640x640/48355592_1861126737347161_4379757303407050752_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_ohc=3n8lZxL0jYQAX8o3Exr&tn=Kiz4D7u8_-YXGV0x&_nc_ht=scontent.frjh1-1.fna&oh=9331e1789099a4520562678434a6c31d&oe=6174EA94"
     },
     {
         "key": "11",
-        "name": "Mostafizur Rahman",
-        "nickname": "The Buggy Man",
+        "name": "Sokal",
+        "nickname": "lady killer",
         "price": 1000000,
-        "currency": "Dollar, Euro, Taka",
-        "agent": "Saul",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/415oziPFA0L._AC_US218_.jpg"
+        "currency": "Dollar, Euro, Pound",
+        "area": "Rangpur",
+        "img": "https://scontent.frjh1-1.fna.fbcdn.net/v/t1.6435-9/p640x640/120268313_3295590447226738_7386443832101752478_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=174925&_nc_ohc=g1QDmXUjIGQAX_ZtnV3&_nc_ht=scontent.frjh1-1.fna&oh=e80f922a58c2607d03acbfa6c610c3a9&oe=6173EF89"
     },
     {
         "key": "12",
-        "name": "Mostafizur Rahman",
-        "nickname": "The Buggy Man",
-        "price": 1000000,
+        "name": "Apu",
+        "nickname": "Thin Man",
+        "price": 700000,
         "currency": "Dollar, Euro, Taka",
-        "agent": "Saul",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/415oziPFA0L._AC_US218_.jpg"
+        "area": "Barisal",
+        "img": "https://scontent.frjh1-1.fna.fbcdn.net/v/t1.6435-9/43590360_2108503306068365_6305694490896105472_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_ohc=I5ZWlSTqEWgAX8XS1Xm&_nc_ht=scontent.frjh1-1.fna&oh=41b17a0f3c0a2fffc399ef4ef2195d0b&oe=6174ACB6"
     },
     {
         "key": "13",
-        "name": "Mostafizur Rahman",
-        "nickname": "The Buggy Man",
+        "name": "Razikul",
+        "nickname": "6 feet",
         "price": 1000000,
         "currency": "Dollar, Euro, Taka",
-        "agent": "Saul",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/415oziPFA0L._AC_US218_.jpg"
+        "area": "Nawabgonj",
+        "img": "https://scontent.frjh1-1.fna.fbcdn.net/v/t1.6435-9/p640x640/97294594_1476813749156937_6958790722619179008_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=-TwQaRMWNwoAX94NYaY&_nc_ht=scontent.frjh1-1.fna&oh=370100a2fd25c6f911d6180a4af290c5&oe=6173D863"
     },
     {
         "key": "14",
-        "name": "Mostafizur Rahman",
-        "nickname": "The Buggy Man",
-        "price": 1000000,
+        "name": "Ferdous",
+        "nickname": "Sundori",
+        "price": 800000,
         "currency": "Dollar, Euro, Taka",
-        "agent": "Saul",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/415oziPFA0L._AC_US218_.jpg"
+        "area": "Naogaon",
+        "img": "https://scontent.frjh1-1.fna.fbcdn.net/v/t1.6435-9/71967770_2359021154357687_2806047355911012352_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=n37gpQYdnegAX9PjUWp&_nc_ht=scontent.frjh1-1.fna&oh=9c597e40102a2ce93af2cf130fb70d93&oe=6174CBA8"
     },
     {
         "key": "15",
-        "name": "Mostafizur Rahman",
-        "nickname": "The Buggy Man",
-        "price": 1000000,
+        "name": "Zillur",
+        "nickname": "The President",
+        "price": 9600000,
         "currency": "Dollar, Euro, Taka",
-        "agent": "Saul",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/415oziPFA0L._AC_US218_.jpg"
+        "area": "Comilla",
+        "img": "https://scontent.frjh1-1.fna.fbcdn.net/v/t1.18169-9/13087678_944542208996067_4051046790242218101_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=174925&_nc_ohc=561OlBPHirIAX-e1p14&_nc_ht=scontent.frjh1-1.fna&oh=4609bf1379f1d287d760f7247b159575&oe=6173FFE6"
+    },
+    {
+        "key": "16",
+        "name": "Joynal",
+        "nickname": "The Picchi",
+        "price": 9700000,
+        "currency": "Dollar, Euro, Taka",
+        "area": "Sylhet",
+        "img": "https://avatars.githubusercontent.com/u/67532018?v=4&fbclid=IwAR1eh6N6dL5T6lGoV9QuDkL5RbJifpjjnwOTbnlGbfviAD2j7o9aXOCWqRY"
+    },
+    {
+        "key": "17",
+        "name": "Jovan",
+        "nickname": "Gixxer is life",
+        "price": 9700000,
+        "currency": "Dollar, Euro, Taka",
+        "area": "Narayanganj",
+        "img": "https://scontent.frjh1-1.fna.fbcdn.net/v/t1.6435-9/31062137_450409808738454_2535807214782775296_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=SRSXK6YUP5AAX8hHKFO&_nc_ht=scontent.frjh1-1.fna&oh=44adbfe50710394886bb4d226c09c1b2&oe=6177150A"
     }
 ]
