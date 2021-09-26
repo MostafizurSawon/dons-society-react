@@ -14,14 +14,14 @@ const DonCard = (props) => {
                     <p className="card-text">Cost : ${price}</p>
                     <p className="card-text">Currency : {currency}</p>
                     <p className="card-text">Ruling Area : {area}</p>
-                    <button onClick={()=>props.handleAddToCart(props.don)} className="btn btn-success"><i class="fas fa-plus mx-1"></i>Hire {name}</button>
+                    <button onClick={()=>props.handleAddToCart(props.don)} className="btn btn-success"><i className="fas fa-plus mx-1"></i>Hire {name}</button>
                     
-                    <div class="row mx-3 mt-2 custom-icon">
-                        <div class="col mx-3">
-                        <i class="fab fa-instagram-square insta"></i>
+                    <div className="row mx-3 mt-2 custom-icon">
+                        <div className="col mx-3">
+                        <i className="fab fa-instagram-square insta"></i>
                         </div>
-                        <div class="col mx-3">
-                        <i class="fab fa-facebook-square fb"></i>
+                        <div className="col mx-3">
+                        <i className="fab fa-facebook-square fb"></i>
                         </div>
                     </div>
                     

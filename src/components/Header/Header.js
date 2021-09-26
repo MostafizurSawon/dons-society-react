@@ -29,14 +29,15 @@ const Header = () => {
                                 <a className="nav-link" href="#subscribe">Subscribe</a>
                             </li>
                             <button className="btn btn-success ms-5"><i className="fas fa-sign-in-alt"> Login</i></button>
-                            <button className="btn btn-warning ms-1">Sign In</button>
+                            <button className="btn btn-info ms-1">Sign In</button>
                         </ul>
                     </div>
                 </div>
             </nav>
-            <div className="bg-info shadow p-2">
-        <h1 className="text-danger">Dons of Bangladesh</h1>
-        <h1 className="text-danger ">Budget : $ 100M</h1>
+            <div className="">
+                
+        <h2>Dons of Bangladesh</h2>
+        <h3>Budget : $ 100M</h3>
             </div>
         </section>
         </>

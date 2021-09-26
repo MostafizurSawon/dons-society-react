@@ -20,13 +20,21 @@ const Don = () => {
     }
     return (
         <>
-            <h1>Hello Dons</h1>
+            <div className=" bg-info shadow-lg">
+
+            
+            <figure class="text-center container p-2 w-50 mx-auto">
+                <blockquote class="blockquote">
+                    <p>We have all powerful Dons around the country. If you've the budget, your problem is ours. We do our work with money back gurranty.</p>
+                </blockquote>
+                <figcaption class="blockquote-footer"><cite title="Source Title">Dons Society of Bangladesh (DSB)</cite>
+                </figcaption>
+            </figure></div>
             <div className="row">
                 <div className="col-4">
                     <Cart cart={cart}></Cart>
                 </div>
                 <div className="col-lg-8">
-                    <h2>Total Dons : {don.length}</h2>
                     <div className="row">
                 {
                     don.map(don => <DonCard key={don.key} don={don} handleAddToCart={handleAddToCart}></DonCard>)

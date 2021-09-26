@@ -1,10 +1,10 @@
 import React from 'react';
 
 const CartName = (props) => {
-    console.log(props);
+    console.log(props.dDame);
     return (
         <div>
-            <h1>hello</h1>
+            <li className="list-group-item">{props.dName} </li>
         </div>
     );
 };
