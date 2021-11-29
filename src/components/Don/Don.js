@@ -22,7 +22,7 @@ const Don = () => {
         <>
             
             <div className="row">
-                <div className="col-4">
+                <div className="col-4 ">
                     <Cart cart={cart}></Cart>
                 </div>
                 <div className="col-lg-8">
